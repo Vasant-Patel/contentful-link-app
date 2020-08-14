@@ -1,6 +1,6 @@
-# `Contentful Missing Translations App`
+# `Contentful Link App`
 
-App lists missing translations
+App acts as a shortcut to external or internal links
 
 
 ## How to use
